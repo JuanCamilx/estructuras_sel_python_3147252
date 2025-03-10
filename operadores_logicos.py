@@ -36,3 +36,7 @@ jerarquia de predencia de operadores
 
 #ejemplo 4: Jerarquia de operadores 
 y = False and not True or False
+
+
+#ejemplo 5: Operadores relacionales y logicos
+y = not 3 > 4 and 4 == 4 or 3 < 2
